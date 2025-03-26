@@ -1,0 +1,13 @@
+com\Magento\Hooks\Hooks.class
+com\Magento\TestRunner\LoginSearchTestRunner.class
+com\Magento\StepDefination\LogOutVerification.class
+com\Magento\TestRunner\CheckOutProcessTestRunner.class
+com\Magento\TestRunner\AddingMultipleProductsToCartTestRunner.class
+com\Magento\TestRunner\LogOutVerifcationTestRunner.class
+com\Magento\StepDefination\AddingMultipleProductsToCart.class
+com\Magento\StepDefination\CheckOutProcess.class
+com\Magento\StepDefination\LoginSearchAndAddCart.class
+com\Magento\StepDefination\RegistrationStepDefination.class
+com\Magento\StepDefination\LoginValidAndIvalidCredentials.class
+com\Magento\TestRunner\MagentoAppTestRunner.class
+com\Magento\TestRunner\LoginValidAndInvalidCredentialsTestRunner.class
